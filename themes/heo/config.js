@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来查看的学习记录', url: 'https://muzhuyu.cn' },
+    { title: '欢迎来偷看我的学习记录，哈哈...', url: 'https://muzhuyu.cn' },
     { title: '我们一起共同进步吧', url: 'https://muzhuyu.cn' }
   ],
 
