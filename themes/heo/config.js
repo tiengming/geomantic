@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://muzhuyu.cn',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '学习重点', url: '/tag/学习重点' },
+  HEO_HERO_CATEGORY_1: { title: '程序代码', url: '/tag/程序代码' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '学习记录', url: '/tag/学习记录' },
 
